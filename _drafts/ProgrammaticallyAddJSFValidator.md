@@ -1,1 +1,1 @@
-Ideas about incluinding an existing validator in another JSF component
+Ideas about including an existing validator in another JSF component
