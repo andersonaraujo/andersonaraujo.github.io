@@ -10,8 +10,7 @@ and Lock blocks to manage shared resources in a multi-threaded environments.
 
 ## Atomic's
 - Atomic Boolean, Integer, Double, etc)
-- Atomic Reference
-- AtomicMarkableReference and AtomicStampedReference
+- Atomic Reference, AtomicMarkableReference and AtomicStampedReference
 
 ## Concurrent Collections
 - Concurrent HashMap, etc
